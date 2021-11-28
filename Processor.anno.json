@@ -1,0 +1,23 @@
+[
+  {
+    "class":"firrtl.transforms.BlackBoxInlineAnno",
+    "target":"Processor.InstructionMemory",
+    "name":"Processor.InstructionMemory.instMem.v",
+    "text":"module BindsTo_0_InstructionMemory(\n  input         clock,\n  input  [31:0] io_address,\n  output [31:0] io_instOut\n);\n\ninitial begin\n  $readmemh(\"Machine code.txt\", InstructionMemory.instMem);\nend\n                      endmodule\n\nbind InstructionMemory BindsTo_0_InstructionMemory BindsTo_0_InstructionMemory_Inst(.*);"
+  },
+  {
+    "class":"firrtl.EmitCircuitAnnotation",
+    "emitter":"firrtl.VerilogEmitter"
+  },
+  {
+    "class":"firrtl.annotations.LoadMemoryAnnotation",
+    "target":"Processor.InstructionMemory.instMem",
+    "fileName":"Machine code.txt",
+    "hexOrBinary":"h",
+    "originalMemoryNameOpt":"instMem"
+  },
+  {
+    "class":"firrtl.transforms.BlackBoxTargetDirAnno",
+    "targetDir":"."
+  }
+]

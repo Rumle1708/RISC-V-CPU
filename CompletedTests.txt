@@ -1,0 +1,10 @@
+All task 1 ok
+All task 2 ok
+loop ok
+recursive ok
+width ok
+
+t1 ok
+t2 ok
+t3 ok
+t4 ok

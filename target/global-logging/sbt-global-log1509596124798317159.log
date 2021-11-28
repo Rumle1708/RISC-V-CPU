@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:13:22: not found: type Add[0m
+[0m[[0m[31merror[0m] [0m[0mclass AddTester(dut: Add) extends PeekPokeTester(dut) {[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:13:50: no arguments allowed for nullary constructor Object: ()Object[0m
+[0m[[0m[31merror[0m] [0m[0mclass AddTester(dut: Add) extends PeekPokeTester(dut) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:18:7: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m      poke(dut.io.a, a)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:19:7: not found: value poke[0m
+[0m[[0m[31merror[0m] [0m[0m      poke(dut.io.b, b)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:20:7: not found: value step[0m
+[0m[[0m[31merror[0m] [0m[0m      step(1)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:21:7: not found: value expect[0m
+[0m[[0m[31merror[0m] [0m[0m      expect(dut.io.c, result)[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/src/test/scala/empty/AddTester.scala:29:55: not found: type Add[0m
+[0m[[0m[31merror[0m] [0m[0m  iotesters.Driver.execute(Array[String](), () => new Add()) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m7 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 1 s, completed 14 Nov 2021, 22.47.44[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

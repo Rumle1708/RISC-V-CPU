@@ -1,0 +1,18 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProcessorSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mProcessor[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31mProcessorSpec *** ABORTED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.OutOfMemoryError: Java heap space[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.util.Arrays.copyOf(Arrays.java:3536)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.lang.AbstractStringBuilder.ensureCapacityInternal(AbstractStringBuilder.java:228)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.lang.AbstractStringBuilder.append(AbstractStringBuilder.java:582)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at java.base/java.lang.StringBuilder.append(StringBuilder.java:173)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.mutable.StringBuilder.append(StringBuilder.scala:213)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$3(VCD.scala:676)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD$$Lambda$10391/0x00000008024f8040.apply(Unknown Source)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.collection.mutable.HashSet.foreach(HashSet.scala:79)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$2(VCD.scala:675)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at treadle.vcd.VCD.$anonfun$serializeChanges$2$adapted(VCD.scala:673)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m
