@@ -1,61 +1,61 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/project-files_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/project_files_2.12-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Processor$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/Processor$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/Processor$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DataMemory.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/DataMemory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/DataMemory.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	InstructionDecoder.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/InstructionDecoder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/InstructionDecoder.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ProgramCounter.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ProgramCounter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ProgramCounter.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	InstructionMemory.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/InstructionMemory.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/InstructionMemory.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Processor.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/Processor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/Processor.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Processor$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/Processor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/Processor$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegisterBank.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/RegisterBank.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/RegisterBank.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImmediateGenerator$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ImmediateGenerator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ImmediateGenerator$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DataMemory$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/DataMemory$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/DataMemory$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	WriteBackSelector.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/WriteBackSelector.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/WriteBackSelector.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BranchComparator.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/BranchComparator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/BranchComparator.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DataMemory$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/DataMemory$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/DataMemory$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImmediateGenerator.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ImmediateGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ImmediateGenerator.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	RegisterBank$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/RegisterBank$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/RegisterBank$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BranchComparator$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/BranchComparator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/BranchComparator$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ControlLogic.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ControlLogic.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ControlLogic.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	InstructionDecoder$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/InstructionDecoder$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/InstructionDecoder$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALU.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ALU.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ALU.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Processor$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/Processor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/Processor$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	WriteBackSelector$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/WriteBackSelector$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/WriteBackSelector$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ProgramCounter$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ProgramCounter$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ProgramCounter$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	InstructionMemory$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/InstructionMemory$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/InstructionMemory$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALU$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ALU$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ALU$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	WriteBackSelector$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/WriteBackSelector$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/WriteBackSelector$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ControlLogic$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ControlLogic$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ControlLogic$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImmediateGenerator$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ImmediateGenerator$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ImmediateGenerator$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALU$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ALU$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ALU$$anon$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ControlLogic$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V simulator/Project files/target/scala-2.12/classes/ControlLogic$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/madsrumlenordstrom/Desktop/Computerarkitektur/RISC-V_simulator/Project_files/target/scala-2.12/classes/ControlLogic$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

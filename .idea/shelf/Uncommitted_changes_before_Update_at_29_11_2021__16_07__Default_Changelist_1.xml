@@ -1,0 +1,14 @@
+<changelist name="Uncommitted_changes_before_Update_at_29_11_2021,_16_07_[Default_Changelist]1" date="1638198487582" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2021,_16_07_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 29/11/2021, 16.07 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="target/scala-2.12/test-classes/ProcessorTester.class" />
+    <option name="AFTER_PATH" value="target/scala-2.12/test-classes/ProcessorTester.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2021,_16_07_[Default_Changelist]1/ProcessorTester.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="target/scala-2.12/test-zinc/inc_compile_2.12.zip" />
+    <option name="AFTER_PATH" value="target/scala-2.12/test-zinc/inc_compile_2.12.zip" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_11_2021,_16_07_[Default_Changelist]1/inc_compile_2.12.zip" />
+  </binary>
+</changelist>

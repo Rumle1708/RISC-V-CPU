@@ -10,8 +10,8 @@ class Processor extends Module{
   })
 
   val programCounter = Module(new ProgramCounter)
-  val instructionMemory = Module(new InstructionMemory) // Check
-  val instructionDecoder = Module(new InstructionDecoder) // Check (except imm)
+  val instructionMemory = Module(new InstructionMemory)
+  val instructionDecoder = Module(new InstructionDecoder)
   val registerBank = Module(new RegisterBank)
   val controlLogic = Module(new ControlLogic)
   val arithmeticLogicUnit = Module(new ALU)
@@ -39,8 +39,8 @@ class Processor extends Module{
   registerBank.io.rs2 := instructionDecoder.io.rs2
   registerBank.io.dataIn := writeBackSelector.io.wBOut
   registerBank.io.regWrite := controlLogic.io.regWEn
-  registerBank.io.call := controlLogic.io.call // temp?
-  registerBank.io.eCall := controlLogic.io.eCall // temp?
+  registerBank.io.call := controlLogic.io.call
+  registerBank.io.eCall := controlLogic.io.eCall
 
   // Control logic inputs
   controlLogic.io.ctrl := instructionDecoder.io.ctrl
@@ -88,7 +88,7 @@ class Processor extends Module{
 
 object Processor extends App {
   // Set program file here:
-  val filePath = "task5/Fibonacci.bin" // Edit program here
+  val filePath = "task5/Prime.bin" // Edit program here
 
   // Read program and interpret as int array
   var fIS = new FileInputStream(filePath)

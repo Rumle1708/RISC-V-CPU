@@ -1,10 +1,10 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ProcessorSpec, org.scalatest.tools.Framework$$anon$1@6938133d, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ProcessorSpec, org.scalatest.tools.Framework$$anon$1@5982e047, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mProcessorSpec:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mProcessor[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should pass[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaCheck not available.[0m
 [0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 5 seconds, 852 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 14 seconds, 1 milliseconds.[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 1, failed 0, canceled 0, ignored 0, pending 0[0m[0m
